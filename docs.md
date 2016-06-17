@@ -93,7 +93,7 @@ and therefore if it needs to re-render or not.
 ### Defining Components
 
 Components are created using the `quiescent.core/component`
-function. It takes two arguments. The first mandatory argment is a
+function. It takes two arguments. The first mandatory argument is a
 function used to render the component. The second argument is an
 optional configuration map.
 
